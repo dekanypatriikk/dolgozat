@@ -5,3 +5,8 @@ h1{
 table{
     border-color: blue;
 }
+
+img{
+    width: 25%;
+    height: 25%;
+}

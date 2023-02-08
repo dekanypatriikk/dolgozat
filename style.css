@@ -9,3 +9,7 @@ table{
 img{
     width: 25%;
 }
+
+li{
+    list-style: square;
+}
